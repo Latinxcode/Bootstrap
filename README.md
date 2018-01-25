@@ -20,3 +20,7 @@ Lesson plan for intro to HTML/CSS/Bootstrap
   * Practice
 * Repeat Walkthrough, now with more context
 * Student showcase
+
+# Notes
+The theme is adapted from https://www.w3schools.com/bootstrap/bootstrap_theme_me.asp with some changes, such as having an external CSS file, colors, having the student supplying different imgages.
+The idea is to have them use something like codepen for their IDE.
