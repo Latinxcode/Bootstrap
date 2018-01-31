@@ -26,4 +26,4 @@ Lesson plan for intro to HTML/CSS/Bootstrap
 * The idea is to have them use something like codepen for their IDE.
 
 # To do
-* include internal links for navigation. sapmple: http://www.yourhtmlsource.com/text/internallinks.html
+* include internal links for navigation. sample: http://www.yourhtmlsource.com/text/internallinks.html
