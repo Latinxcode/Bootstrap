@@ -31,3 +31,4 @@ Lesson plan for intro to HTML/CSS/Bootstrap
 * unicode characters
 * inspect px vs em
 * modify old lecture for teenage audience
+* include codeanywhere portion + color scheme changes
