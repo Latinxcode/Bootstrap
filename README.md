@@ -28,3 +28,6 @@ Lesson plan for intro to HTML/CSS/Bootstrap
 # To do
 * include internal links for navigation. sample: http://www.yourhtmlsource.com/text/internallinks.html
 * include list of icons: https://getbootstrap.com/docs/3.3/components/
+* unicode characters
+* inspect px vs em
+* modify old lecture for teenage audience
